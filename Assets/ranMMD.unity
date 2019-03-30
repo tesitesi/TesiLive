@@ -171,7 +171,7 @@ Prefab:
     - target: {fileID: 9500000, guid: 0a3940e3efe314f12bcaf4ac4bfb4bef, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 77fc36405328e43f19f1f85c461d5eac, type: 2}
+      objectReference: {fileID: 9100000, guid: f2feaeea159d14a7592d3a8ea43236f7, type: 2}
     - target: {fileID: 9500000, guid: 0a3940e3efe314f12bcaf4ac4bfb4bef, type: 3}
       propertyPath: m_ApplyRootMotion
       value: 0
@@ -755,11 +755,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1499115366}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5c1265f5a7af845629ad10c751ae0e20, type: 3}
+  m_Script: {fileID: 11500000, guid: bffba35710df4462a8bbb45c6ffe2215, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
-  animator: {fileID: 0}
 --- !u!114 &1499115509
 MonoBehaviour:
   m_ObjectHideFlags: 0
